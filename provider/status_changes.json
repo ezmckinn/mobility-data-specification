@@ -124,17 +124,6 @@
         }
       }
     },
-    "propulsion_type": {
-      "$id": "#/definitions/propulsion_type",
-      "type": "string",
-      "description": "The type of propulsion",
-      "enum": [
-        "combustion",
-        "electric",
-        "electric_assist",
-        "human"
-      ]
-    },
     "propulsion_types": {
       "$id": "#/definitions/propulsion_types",
       "type": "array",
